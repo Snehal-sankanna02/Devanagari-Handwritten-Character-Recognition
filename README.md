@@ -1,2 +1,2 @@
 # Devanagari-Handwritten-Character-Recognition
-Optical Recognition using Convolutional Neural Network
+Optical Character Recognition using Convolutional Neural Network
