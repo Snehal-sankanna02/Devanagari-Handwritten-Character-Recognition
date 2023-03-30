@@ -1,5 +1,6 @@
 # Devanagari-Handwritten-Character-Recognition
 Optical Character Recognition using Convolutional Neural Network
+
 Overview: 
 
 The data of about 92,000 is imported. There are 46 classes and each class has 1700 images in it.
